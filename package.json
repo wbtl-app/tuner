@@ -1,0 +1,17 @@
+{
+  "name": "tuner",
+  "version": "1.0.0",
+  "description": "An instrument tuner using your microphone",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "pitchfinder": "^2.3.0"
+  },
+  "devDependencies": {
+    "vite": "^5.0.0"
+  }
+}
